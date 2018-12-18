@@ -1,5 +1,5 @@
 # Kattis
-Kattis problems in PHP and RUby
+Kattis problems in PHP and Ruby
 
 https://open.kattis.com/users/peter-kabai
 
