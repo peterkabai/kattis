@@ -1,0 +1,1 @@
+print STDIN.read.split("\n")[0].split(" ")[1]
