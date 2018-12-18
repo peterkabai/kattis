@@ -1,4 +1,7 @@
 # Kattis
 Kattis problems in PHP
 
-Problems Completed: 0
+Updated: 12/17/2018  
+Completed: 28  
+Score: 45.5  
+Rank: 6358  
